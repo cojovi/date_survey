@@ -48,7 +48,7 @@ export default function ThankYouPage() {
           className="text-center"
         >
           <h1 className="text-4xl font-bold mb-6">
-            <AnimatedText>Thank you for allowing 'DaddysFone'</AnimatedText>
+            <AnimatedText>Thank you for taking the time!</AnimatedText>
           </h1>
           <motion.div
             initial={{ opacity: 0, y: 50 }}

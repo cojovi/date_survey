@@ -1,4 +1,4 @@
-import { createTheme } from "@/components/ui/themes"
+import { createTheme } from "@/components/ui/theme"
 
 export const darkTheme = createTheme({
   primary: {
